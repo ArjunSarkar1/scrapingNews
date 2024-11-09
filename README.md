@@ -1,2 +1,2 @@
 # Scraping News
-- Scarped the top 10 news headlies from a website and sorted them in order
+- Scarped the first 100 news headlies from a website and sorted them in order (latest to outdated)
